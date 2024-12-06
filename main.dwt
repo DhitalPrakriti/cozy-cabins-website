@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cozy cabins</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<header>
+	<h1>Cozy Cabins</h1>
+	</header>
+	
+	
+<nav>
+	<ul>
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../cabins.html">Cabins</a></li>
+		<li><a href="../gallery.html">Gallery</a></li>
+		<li><a href="../contact.html">Contact</a></li>
+	</ul>
+</nav>
+	
+	<main>
+		
+		<p class = "headline">
+			
+		<!-- TemplateEndEditable --><!-- TemplateBeginEditable name=" Editable region" -->Enter text here..<!-- TemplateEndEditable -->
+			
+		</p>
+		
+		<p class = "para">
+			
+		<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion4" -->Enter text..<!-- TemplateEndEditable -->
+		</p>
+		
+		
+		</main>
+</body>
+<footer>
+	Created by Prakriti
+</footer>
+</html>

@@ -1,0 +1,153 @@
+@charset "utf-8";
+
+#form-header h2, #gallery-header h2{
+	text-align: center;
+	font-size: 40px;
+}
+
+h4{
+	text-align: center;
+	font-weight: normal;
+	color: saddlebrown;
+	font-size: 20px;
+}
+
+#form-header p{
+	text-align: center;
+	padding: 15px 20px;
+	width: 100%;
+	display: block;
+	
+}
+legend{
+	text-align: center;
+}
+
+fieldset{
+	width: 45%;
+	margin : 20px auto;
+	height: auto;
+}
+
+body{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+#img-container {
+	width: 100%;
+}
+
+.photos {
+	margin: 10px 5vw;
+	display: flex;
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+}
+h3{
+	text-align: center;
+}
+
+.moose{
+	width: 30%;
+	display: flex;
+}
+
+.elkcabin{
+	width: 100%;
+	height: auto;
+	display: flex;
+}
+.cougar{
+	width: 30%;
+	height: auto;
+	display: flex;
+}
+.lynx{
+	width: 30%;
+	height: auto;
+	display: flex;
+}
+
+.photos img {
+    width: 350px;
+    height: auto;
+	float: left;
+	display: table-column-group;
+}
+
+.cabins-content{
+	text-align: center;
+	width: 100%;
+	margin:15px;
+}
+
+h3 ul li{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	color:darkgoldenrod;
+}
+
+ nav{
+	display:flex;
+	background-color: burlywood;
+	height: auto;
+}
+
+a{
+	padding: 10px 20px;
+	text-decoration: none;
+	font-variant:small-caps;
+}
+
+a:link{
+  color:saddlebrown;
+}
+
+a:visited{
+    color:saddlebrown;
+}
+
+a:hover{
+	color: white;
+}
+
+
+nav ul li {
+	padding: 0px;
+	display: inline-block;
+	font-size: 20px;
+}
+
+main{
+	overflow: auto;
+	padding: 40px;
+}
+
+img{
+	height: 400px;
+	width:600px;
+	float: right;
+	padding: 20px;
+}
+.headline{
+	padding:-10px 40px;
+	font-size: 25px;
+}
+
+
+p{
+    font-size: 20px;
+    width: 70%;
+}
+
+footer{
+	text-align: center;
+	padding: 10px;
+	background-color:burlywood;
+}
+
